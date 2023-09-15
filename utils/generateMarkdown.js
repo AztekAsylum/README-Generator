@@ -79,7 +79,9 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  ${data.questions}
+  Submit questions to ${data.questions}
+
+  View my Github profile at https://github.com/${data.gitHub}
   
 `;
 }
