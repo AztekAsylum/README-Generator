@@ -17,7 +17,7 @@ This is a command line application to generate README files based on the users a
 
 ## Installation
 
-The Installation steps are clone the repo. Then run `npm i`, followed by running `node index.js`. Then answer the following questions. The generated file will be in the output folder.
+The Installation steps are clone the repo. Then run ```npm i```, followed by running ```node index.js```. Then answer the following questions. The generated file will be in the output folder.
 
 ## Usage
 
